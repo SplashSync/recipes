@@ -1,2 +1,2 @@
-# recipes
-Symfony Flex recipes for Splash Bundles
+# Splash - Symfony Flex recipes
+
