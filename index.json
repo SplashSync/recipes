@@ -1,0 +1,10 @@
+{
+  "recipes": {
+    "splash/akeneo-bundle": []
+  },
+  "branch": "master",
+  "is_contrib": true,
+  "_links": {
+    "repository": "github.com/SplashSync/recipes"
+  }
+}
