@@ -4,7 +4,8 @@
             "manifest": {
                 "copy-from-package": {
                     "recipes/": "%CONFIG_DIR%/"
-                }
+                },
+                "ref": "dafe6ed6f0dc3d516b134dfa11a99b4d62ae2180"
             }
         }
     },
