@@ -1,6 +1,12 @@
 {
     "recipes": {
-        "splash/akeneo-bundle": []
+        "splash/akeneo-bundle": {
+            "manifest": {
+                "copy-from-package": {
+                    "recipes/": "%CONFIG_DIR%/"
+                }
+            }
+        }
     },
     "branch": "main",
     "is_contrib": true,
